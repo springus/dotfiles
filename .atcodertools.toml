@@ -1,0 +1,4 @@
+[codestyle]
+template_file='~/Documents/atcoder/format.cpp'
+workspace_dir='~/Documents/atcoder/'
+lang='cpp'
